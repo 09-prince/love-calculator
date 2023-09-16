@@ -1,1 +1,3 @@
 # love-calculator
+THIS IS MY FIRST PROJECT IN GITHUB .
+It is basically python script which is used to calculate the love percentage...
