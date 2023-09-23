@@ -18,6 +18,7 @@ while gender not in choice:
 
         if usr1_total<usr2_total:
             total_love=(usr1_total/usr2_total)*100
+            lo=round(total_love)
         elif usr2_total<usr1_total:
             total_love=(usr2_total/usr1_total)*100
             lo=round(total_love)
@@ -40,6 +41,7 @@ while gender not in choice:
 
         if user3_total<user4_total:
             total2_love=(user3_total/user4_total)*100
+            lo2=round(total2_love)
         elif user4_total<user3_total:
             total2_love=(user4_total/user3_total)*100
             lo2=round(total2_love)
